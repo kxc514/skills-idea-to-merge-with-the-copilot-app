@@ -1,26 +1,33 @@
-# Idea to Merge with the Copilot App
+<div align="center">
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+# 🎉 Congratulations kxc514! 🎉
 
-Hey kxc514!
+<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+### 🌟 You've successfully completed the exercise! 🌟
 
-Remember, it's self-paced so feel free to take a break! ☕️
+## 🚀 Share Your Success!
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/kxc514/skills-idea-to-merge-with-the-copilot-app/issues/1)
+**Show off your new skills and inspire others!**
 
-## Bookmark manager
+<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Idea%20to%20Merge%20with%20the%20Copilot%20App%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fkxc514%2Fskills-idea-to-merge-with-the-copilot-app%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
+</a>
+<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Idea%20to%20Merge%20with%20the%20Copilot%20App%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fkxc514%2Fskills-idea-to-merge-with-the-copilot-app%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
+</a>
+<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Idea%20to%20Merge%20with%20the%20Copilot%20App%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fkxc514%2Fskills-idea-to-merge-with-the-copilot-app%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
+</a>
 
-Enter a website URL with or without `https://` to save its normalized URL
-and a locally generated base62 `mona-` slug. Each row displays
-`<url> :: <slug>`; Copy copies the slug, and Clear all asks for confirmation.
-Slugs are local labels, not hosted short-link redirects.
+### 🎯 What's Next?
 
-Bookmarks are stored on this device under `mona-bookmarks` in `localStorage`.
-Malformed or legacy entries are ignored on load. Storage and clipboard failures
-are reported in the app; failed saves leave the entered URL intact.
-Only HTTP and HTTPS links are accepted.
+**Keep the momentum going!**
 
-With Node.js 22.12 or newer, run `npm install`, `npm test` for the browser-free
-helper tests, and `npm run build` for the static production build.
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/kxc514/skills-idea-to-merge-with-the-copilot-app/issues/1)
+[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills)
+
+*There's no better way to learn than building things!* 🚀
+
+</div>
+
